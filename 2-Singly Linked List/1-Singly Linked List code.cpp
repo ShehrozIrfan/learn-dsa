@@ -8,10 +8,6 @@ int deleteFromHead();           05
 int deleteFromTail();           10
 bool deleteFromList(int);       10
 */
-/*
-Name:                        College R#               University R#
-Shehroz Irfan                   199                       024016
-*/
 
 #include<iostream>
 using namespace std;
@@ -75,7 +71,7 @@ public:
 			return 0;
 		}
 	}
-    
+
 	//Task 3: bool isInList()
 
 	bool isInList(int n) {
@@ -101,7 +97,7 @@ public:
 		}
 		cout <<n<<" not founded in List" << endl;
 	}
-    
+
 
 	//Task 4: delete from head
 
@@ -203,7 +199,7 @@ public:
 				cout << temp->info << " ";
 			}
 		cout << tail->info << endl;
-		
+
 		}
 	}
 	~LinkedList(){
