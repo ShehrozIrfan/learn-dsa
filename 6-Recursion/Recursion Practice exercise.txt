@@ -1,0 +1,42 @@
+Trace the following recursive functions using paper and pencil and also determine their output(s).
+
+Trace it with print(6);
+void print(int n)
+{
+if (n > 1)
+{
+cout << n << " ";
+print(n - 1);
+cout << n << " ";
+}
+}
+
+Answer: 6 5 4 3 2 2 3 4 5 6
+
+
+Trace it with foo(99);
+int foo(int n)
+{
+if (n > 100)
+return n - 10;
+return foo( foo(n + 11) );
+}
+
+Answer: 91
+
+Trace it with int x = 15; bar(5, &x);
+int bar( int n, int *p )
+{
+int t, f;
+if ( n <= 1 )
+{
+*p = 1;
+return 1;
+}
+t = bar ( n - 1, p );
+f = t + *p;
+*p = t;
+return f;
+}
+
+Answer: 8
