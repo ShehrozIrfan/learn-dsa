@@ -6,3 +6,4 @@ This is a repository in which you can learn the data structures and algorithms p
 - Doubly Linked List
 - Circular Linked List
 - Stack
+- Recursion
