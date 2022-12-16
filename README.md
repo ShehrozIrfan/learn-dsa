@@ -7,3 +7,4 @@ This is a repository in which you can learn the data structures and algorithms p
 - Circular Linked List
 - Stack
 - Recursion
+- Queue
