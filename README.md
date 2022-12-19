@@ -8,3 +8,4 @@ This is a repository in which you can learn the data structures and algorithms p
 - Stack
 - Recursion
 - Queue
+- Binary Search Tree
