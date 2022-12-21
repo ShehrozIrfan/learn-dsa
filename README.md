@@ -10,4 +10,5 @@ This is a repository in which you can learn the data structures and algorithms p
 - Queue
 - Binary Search Tree
 - Heaps
-- Searching
+- Searching Algorithms
+- Sorting Algorithms
