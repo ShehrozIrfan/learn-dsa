@@ -12,3 +12,4 @@ This is a repository in which you can learn the data structures and algorithms p
 - Heaps
 - Searching Algorithms
 - Sorting Algorithms
+- Labs And Tasks
