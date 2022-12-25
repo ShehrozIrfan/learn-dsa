@@ -31,23 +31,24 @@ const double PI=3.141592653589793238460;
 typedef std::complex<double> Complex;
 
 
-int32_t main()
-{
-	
-	//ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);       
-      w(t)
-      {
-      	int n,i;
-      	
-      	cin>>n>>i;
-      	
-      	//Right shift n by i bits i.e n=n/(2^i)
-      	
-      	cout<<n<<">>"<<i<<" = "<<(n>>i)<<endl;
-      	
-      	
-	  }
-	
-	return 0;
-}
+	int main()
+	{
+		
+		int t;
+		cin>>t;     
+		while(t--)
+		{
+			int n,i;
+			
+			cin>>n>>i;
+			
+			//Right shift n by i bits i.e n=n/(2^i)
+			
+			cout<<n<<">>"<<i<<" = "<<(n>>i)<<endl;
+			
+			
+		}
+		
+		return 0;
+	}
 
