@@ -16,6 +16,11 @@ This is a repository in which you can learn the data structures and algorithms p
 
 You can simply go to any folder, find a program related to that folder topic and learn from that, there are comments added in each program for better understanding.
 
+
+## How to Learn
+
+Please visit [LEARN.md](https://github.com/ShehrozIrfan/learn-dsa/blob/master/LEARN.md) for contributions
+
 ## How to Contribute
 
 Please visit [CONTRIBUTE.md](https://github.com/ShehrozIrfan/learn-dsa/blob/master/CONTRIBUTING.md) for contributions
