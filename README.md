@@ -13,3 +13,5 @@ This is a repository in which you can learn the data structures and algorithms p
 - Searching Algorithms
 - Sorting Algorithms
 - Labs And Tasks
+
+You can simply go to any folder, find a program related to that folder topic and learn from that, there are comments added in each program for better understanding.
