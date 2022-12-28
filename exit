@@ -1,0 +1,377 @@
+[33mcommit c195c5a510b00978c8cd0fae65dcdf6b7abc1dbe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 70e732e 20289e9
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 28 09:56:27 2022 +0500
+
+    Merge pull request #19 from Khushi2402/Adding_Stack_In_Java
+    
+    Added Stack program in Java
+
+[33mcommit 20289e99989aecb7c3ec118a9bb740bd47a1e620[m
+Author: Khushi Kesharwani <khushibharatkesharwani@gmail.com>
+Date:   Tue Dec 27 19:56:19 2022 +0530
+
+    Added Stack program using Java
+
+[33mcommit 70e732e1c7073c86c2da08e328158a0e57392eb7[m
+Merge: a16d2bb 5405289
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Tue Dec 27 09:50:09 2022 +0500
+
+    Merge pull request #18 from tarunsamanta2k20/tarun_samanta/#15
+    
+    Tarun samanta/#15
+
+[33mcommit 5405289d2281a08bf23e4d99d5590412a36583ff[m
+Author: Tarun Samanta <tarunsamanta77@gmail.com>
+Date:   Sun Dec 25 22:28:29 2022 +0530
+
+    removed extra lines and changed the file name
+
+[33mcommit 59efc2659b3561f0df617cbac37dd2290877e43f[m
+Author: Tarun Samanta <tarunsamanta77@gmail.com>
+Date:   Sun Dec 25 20:13:15 2022 +0530
+
+    Added Bit-manipulation questions with answers.
+
+[33mcommit fc20c632a01bb5468d1575b75e451ada0eabc508[m
+Author: Tarun Samanta <tarunsamanta77@gmail.com>
+Date:   Sun Dec 25 19:56:51 2022 +0530
+
+    added Bit manipulations fundamental questions with solutions
+
+[33mcommit a16d2bb919246fe0b49b17f1efbfde9c1e54b13a[m
+Merge: f8d661b 3b4a6a3
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 19:03:07 2022 +0500
+
+    Merge pull request #16 from SumirVats2003/master
+    
+    Added parantheses check problem
+
+[33mcommit 3b4a6a3114df629b8b411e235ac1b28b6cf37a40[m
+Author: Sumir Vats <sumirvats@gmail.com>
+Date:   Sun Dec 25 18:45:03 2022 +0530
+
+    Added parantheses check problem
+
+[33mcommit f8d661bb5fea076c5548e2f04110bd9bed34282f[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 17:21:11 2022 +0500
+
+    Link url updates
+
+[33mcommit 53479870bc0a02db5b4d849ace5f0d9d43ea26ba[m
+Merge: a166164 af4bcb1
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 17:13:24 2022 +0500
+
+    Merge pull request #13 from ShehrozIrfan/folder-structure-updates
+    
+    [Folder Structure Updates] added, all the C++ coding files moved to C…
+
+[33mcommit af4bcb12f11409cacf492717a597e35932e56fbc[m
+Author: Shehroz Irfan <>
+Date:   Sun Dec 25 17:12:08 2022 +0500
+
+    [Folder Strucutre Updates] added, all the C++ coding files moved to C++ folder
+
+[33mcommit a1661649e97b36d342d0324cfb7a9f975f3b31a3[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 17:08:31 2022 +0500
+
+    How to learn added
+
+[33mcommit 6b96c7691cf6ee0de3bbc28a3706dc48935dc339[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 17:07:33 2022 +0500
+
+    How to learn added
+
+[33mcommit b41fd68f764dae8049523a820c5e3098a02cd21c[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 16:54:47 2022 +0500
+
+    How to contribute added
+
+[33mcommit 2495db5dd313fce601764725cbd77f13b2381765[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 16:53:44 2022 +0500
+
+    Contributing details added
+
+[33mcommit ad940f65ec5ca6a70d9dec2e62c11e6a2889a215[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sun Dec 25 16:47:07 2022 +0500
+
+    More info added related to folder topics
+
+[33mcommit 39522aac2db0796df9b3bed920107b246926a2d6[m
+Merge: d2a2679 3b64ecd
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sat Dec 24 13:04:49 2022 +0500
+
+    Merge pull request #12 from ShehrozIrfan/labs-tasks
+    
+    [Labs and Tasks] tasks added
+
+[33mcommit 3b64ecdafe39493deca21c4d9f155ba2369443e1[m
+Author: Shehroz Irfan <>
+Date:   Sat Dec 24 13:03:39 2022 +0500
+
+    [Labs and Tasks] tasks added
+
+[33mcommit d2a2679c496bb1609c67a24d106251f9247ae871[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Fri Dec 23 10:07:22 2022 +0500
+
+    Labs and Tasks added
+
+[33mcommit df0c6ecf4f405f5bb65e038ca58410cef089351a[m
+Merge: d567506 524e137
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Fri Dec 23 10:06:54 2022 +0500
+
+    Merge pull request #11 from ShehrozIrfan/labs-tasks
+    
+    [Labs and Tasks] labs added
+
+[33mcommit 524e1370537487948b478fa3314161193e18cb39[m
+Author: Shehroz Irfan <>
+Date:   Fri Dec 23 10:05:42 2022 +0500
+
+    [Labs and Tasks] labs added
+
+[33mcommit d56750686d6dbdf6fc8aa065245139c64f93e825[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Thu Dec 22 00:11:55 2022 +0500
+
+    Searching Algorithms added
+
+[33mcommit faece94f7a52da9ef417f103ed3e1e575f7626d9[m
+Merge: 2849eb3 90d7f7a
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Thu Dec 22 00:11:28 2022 +0500
+
+    Merge pull request #10 from ShehrozIrfan/sorting
+    
+    [Sorting Algorithms] added
+
+[33mcommit 90d7f7adb8b40eb4fb08710559c2f79ea0d93aa6[m
+Author: Shehroz Irfan <>
+Date:   Thu Dec 22 00:10:13 2022 +0500
+
+    [Sorting Alogrithms] added
+
+[33mcommit 2849eb36b5ddd2ce682e931c8448244cb87d149a[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 21 11:31:18 2022 +0500
+
+    Searching added
+
+[33mcommit a2cdcfc34d5267208c397e3554df07aef86c2929[m
+Merge: 323e81d 804b262
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 21 10:10:24 2022 +0500
+
+    Merge pull request #9 from ShehrozIrfan/searching
+    
+    [Searching] added
+
+[33mcommit 804b2623facc637eaf49cc22852c455245252371[m
+Author: Shehroz Irfan <>
+Date:   Wed Dec 21 09:45:21 2022 +0500
+
+    [Searching] added
+
+[33mcommit 323e81d7c6db7cea778230c000196d9699771ffb[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Tue Dec 20 09:53:17 2022 +0500
+
+    Heaps added
+
+[33mcommit 15b9579086eb1b59cbcd28ae25fe1522031d2303[m
+Merge: 545cd91 97ed437
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Tue Dec 20 09:52:39 2022 +0500
+
+    Merge pull request #8 from ShehrozIrfan/heaps
+    
+    [Heaps] added
+
+[33mcommit 97ed437f8897e39f1f9389659323a1db8e7a25df[m
+Author: Shehroz Irfan <>
+Date:   Tue Dec 20 09:40:54 2022 +0500
+
+    [Heaps] added
+
+[33mcommit 545cd918546b9d4db93b19f950fabb60240271d5[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Mon Dec 19 09:48:04 2022 +0500
+
+    BST added
+
+[33mcommit 1713b8e02c8a7446637ee54388d51b3eb69cac74[m
+Merge: b8b0218 20f722e
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Mon Dec 19 09:47:44 2022 +0500
+
+    Merge pull request #7 from ShehrozIrfan/bst
+    
+    [BST - Binary Search Tree] added
+
+[33mcommit 20f722eabdc7040e5fa8aa34a74e9b6647f0b2ee[m
+Author: Shehroz Irfan <>
+Date:   Mon Dec 19 09:46:15 2022 +0500
+
+    [BST - Binary Search Tree] added
+
+[33mcommit b8b0218d3a57c66bbb9214da53036b7c3c0ef77f[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Fri Dec 16 09:50:11 2022 +0500
+
+    Queue added
+
+[33mcommit 471a47fb7dde2d92ac9d6238ff933f4b4755d3c6[m
+Merge: 8295604 7fba5ed
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Fri Dec 16 09:49:46 2022 +0500
+
+    Merge pull request #6 from ShehrozIrfan/queue
+    
+    [Queue] added
+
+[33mcommit 7fba5ed89ef06b78583abe83bc113f5ce79f95db[m
+Author: Shehroz Irfan <>
+Date:   Fri Dec 16 09:48:01 2022 +0500
+
+    [Queue] added
+
+[33mcommit 8295604343f9729b35e45338a26da1583756abf4[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Thu Dec 15 09:42:30 2022 +0500
+
+    Recursion added
+
+[33mcommit 865c20aae8de3075143f27808cbffdf4a4833a55[m
+Merge: 9e1f939 bf461f9
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Thu Dec 15 09:42:08 2022 +0500
+
+    Merge pull request #5 from ShehrozIrfan/recursion
+    
+    [Recursion] Added
+
+[33mcommit bf461f9347d92d14cbec8a0bb6e574b9a7baa79b[m
+Author: Shehroz Irfan <>
+Date:   Thu Dec 15 09:40:54 2022 +0500
+
+    [Recursion] Added
+
+[33mcommit 9e1f9394ea04f384b1d1b2104347fd90f5276a2b[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 14 19:34:53 2022 +0500
+
+    Stack added
+
+[33mcommit eb330b39d127276086993904ebc6a139b242d70d[m
+Merge: 7aabf49 903e027
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 14 19:34:17 2022 +0500
+
+    Merge pull request #4 from ShehrozIrfan/stack
+    
+    [Stack] added
+
+[33mcommit 903e027426c04717037dd665a4d77e71d9f7dd58[m
+Author: Shehroz Irfan <>
+Date:   Wed Dec 14 19:27:46 2022 +0500
+
+    [Stack] added
+
+[33mcommit 7aabf492009ec92bce133a66ee1e16281dd073b1[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Tue Dec 13 00:22:05 2022 +0500
+
+    Circular Linked List added
+
+[33mcommit 1a09fcbe366ab62461a6efafe467ada8e28a768f[m
+Merge: df138e1 dbf0e6c
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Tue Dec 13 00:21:41 2022 +0500
+
+    Merge pull request #3 from ShehrozIrfan/circular-linked-list
+    
+    [Circular Linked List] added
+
+[33mcommit dbf0e6cd30b88abb835340f31212bfc18b5b17fe[m
+Author: Shehroz Irfan <>
+Date:   Tue Dec 13 00:20:41 2022 +0500
+
+    [Circular Linked List] added
+
+[33mcommit df138e1d9001ba4b754f4dd8f67558bfe86a91a4[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Mon Dec 12 09:43:05 2022 +0500
+
+    Singly and doubly linked list added
+
+[33mcommit f7de020e79d608f0ea78cf0dbea819582f82ea2d[m
+Merge: e144cf1 0709423
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Mon Dec 12 09:42:18 2022 +0500
+
+    Merge pull request #2 from ShehrozIrfan/doubly-linked-list
+    
+    [Doubly Linked List] added
+
+[33mcommit 07094230329321989ab4427cafc222aef9951882[m
+Author: Shehroz Irfan <>
+Date:   Mon Dec 12 09:40:49 2022 +0500
+
+    [Doubly Linked List] added
+
+[33mcommit e144cf12696cd491213cfb130a11408470b66ba3[m
+Merge: abd3b9e fa8f49f
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Sat Dec 10 14:09:37 2022 +0500
+
+    Merge pull request #1 from ShehrozIrfan/singly-linked-list
+    
+    Singly linked list
+
+[33mcommit fa8f49fcf88c45de6803bedefac4b74b452eeee8[m
+Author: Shehroz Irfan <>
+Date:   Sat Dec 10 14:09:10 2022 +0500
+
+    [Singly Linked List] Removed the personal info
+
+[33mcommit 1a28281de42c6996150483b12b491c5b743426ca[m
+Author: Shehroz Irfan <>
+Date:   Sat Dec 10 14:05:54 2022 +0500
+
+    [Singly Linked List] Added
+
+[33mcommit abd3b9e006c5967ff8b774b7328cd0c1215315d6[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Fri Dec 9 00:10:04 2022 +0500
+
+    Updated after adding sparse matrix
+
+[33mcommit 6a11df079cd8bc143284537eb8a76bf570c271be[m
+Author: Shehroz Irfan <>
+Date:   Fri Dec 9 00:07:48 2022 +0500
+
+    [Sparse Matrix] Added
+
+[33mcommit 2269056d6310ef5014296c82713fa63daf51f127[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Thu Dec 8 10:13:38 2022 +0500
+
+    Minor description added
+
+[33mcommit c80f8974a870ab151130450de7a8abd07660f5a3[m
+Author: Shehroz Irfan <36946330+ShehrozIrfan@users.noreply.github.com>
+Date:   Wed Dec 7 22:59:44 2022 +0500
+
+    Initial commit
