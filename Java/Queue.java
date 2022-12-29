@@ -1,3 +1,4 @@
+//program to implement Queue in Java
 public class Queue {
     static final int SIZE = 100;
     int items[] = new int[SIZE];
