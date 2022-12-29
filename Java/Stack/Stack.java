@@ -1,3 +1,4 @@
+//Program to implement Stack using Java
 public class Stack {
     static final int SIZE = 100;
     int top;
