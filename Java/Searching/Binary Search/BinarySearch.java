@@ -1,3 +1,10 @@
+/*
+    Binary Search implementation code in Java
+    This is used to search an element in sorted array
+    Time complexity : O(logn)
+*/
+
+
 public class BinarySearch {
     public static int search(int[] arr,int target){
         int start = 0;
