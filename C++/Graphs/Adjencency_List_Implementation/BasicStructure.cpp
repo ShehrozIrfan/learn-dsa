@@ -15,5 +15,5 @@ class Graph()
         adj[n].push_back(w);                 //Incase of directed graph only add an edge from n to w
         adj[w].push_back(n);
     }
-    //We will do itterations seperately as they are of different types
+    //We will do itterations seperately as they are of different types mainly DFS and BFS
 }
