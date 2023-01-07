@@ -16,7 +16,6 @@ public class Queue {
         if (front == -1)
         {
             return true;
-            
         }
         else 
         {
