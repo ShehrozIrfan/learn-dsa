@@ -1,6 +1,6 @@
 //Recursive function to find Sum of square of first n positive numbers
 
-package Java.Recursion;
+package Recursion;
 
 public class SumOfSquareOfPositiveNumbers {
     public static int sumSquares(int n) {

@@ -1,6 +1,6 @@
-//Recursion program to find Sum of n positive numbers in Java
+package Recursion;
 
-package Java.Recursion;
+//Recursion program to find Sum of n positive numbers in Java
 
 public class SumOfPositiveNumber {
     public static int sum(int n) {
