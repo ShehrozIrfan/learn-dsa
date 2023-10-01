@@ -13,13 +13,13 @@ The Red-Black tree satisfies all the properties of binary search tree in additio
 1. Root property: The root is black.
 
 2. External property: Every leaf (Leaf is a NULL child of a node) is black in Red-Black tree.
-<br>
+
 3. Internal property: The children of a red node are black. Hence possible parent of red node is a black node.
-<br>
+
 4. Depth property: All the leaves have the same black depth.
-<br>
+
 5. Path property: Every simple path from root to descendant leaf node contains same number of black nodes. 
-<br>
+<br><br>
 The result of all these above-mentioned properties is that the Red-Black tree is roughly balanced.
 <br>
 Rules That Every Red-Black Tree Follows:<br> 
