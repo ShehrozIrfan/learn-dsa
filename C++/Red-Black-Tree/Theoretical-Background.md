@@ -11,7 +11,7 @@ Properties of Red Black Tree:
 The Red-Black tree satisfies all the properties of binary search tree in addition to that it satisfies following additional properties –
 
 1. Root property: The root is black.
-<br>
+
 2. External property: Every leaf (Leaf is a NULL child of a node) is black in Red-Black tree.
 <br>
 3. Internal property: The children of a red node are black. Hence possible parent of red node is a black node.
