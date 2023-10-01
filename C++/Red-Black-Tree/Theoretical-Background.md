@@ -17,5 +17,5 @@ The Red-Black tree satisfies all the properties of binary search tree in additio
 
 5. *Path property*: Every simple path from root to descendant leaf node contains same number of black nodes.
 
-*Why Red-Black Trees?*
+*Why Red-Black Trees?*<br>
 Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O(h) time where h is the height of the BST. The cost of these operations may become O(n) for a skewed Binary tree. If we make sure that the height of the tree remains O(log n) after every insertion and deletion, then we can guarantee an upper bound of O(log n) for all these operations. The height of a Red-Black tree is always O(log n) where n is the number of nodes in the tree. 
