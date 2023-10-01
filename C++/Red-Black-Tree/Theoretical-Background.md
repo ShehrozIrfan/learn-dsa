@@ -8,7 +8,7 @@ Red Black Tree-
 Red-Black tree is a binary search tree in which every node is colored with either red or black. It is a type of self balancing binary search tree. It has a good efficient worst case running time complexity.
 <br>
 Properties of Red Black Tree:
-The Red-Black tree satisfies all the properties of binary search tree in addition to that it satisfies following additional properties –<br>
+The Red-Black tree satisfies all the properties of binary search tree in addition to that it satisfies following additional properties –
 
 1. Root property: The root is black.
 <br>
