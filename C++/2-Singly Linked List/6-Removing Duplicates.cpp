@@ -1,13 +1,13 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include <iostream>
+
+ struct ListNode {
+      int val;
+      ListNode *next;
+      ListNode() : val(0), next(nullptr) {}
+      ListNode(int x) : val(x), next(nullptr) {}
+      ListNode(int x, ListNode *next) : val(x), next(next) {}
+  };
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
@@ -39,3 +39,45 @@ public:
         return newHead;
     }
 };
+
+
+
+int main() {
+    // Create a sample linked list with duplicates
+    ListNode* head = new ListNode(1);
+    head->next = new ListNode(1);
+    head->next->next = new ListNode(2);
+    head->next->next->next = new ListNode(3);
+    head->next->next->next->next = new ListNode(3);
+
+    // Print the original linked list
+    std::cout << "Original Linked List: ";
+    ListNode* current = head;
+    while (current != nullptr) {
+        std::cout << current->val << " ";
+        current = current->next;
+    }
+    std::cout << std::endl;
+
+    // Call the deleteDuplicates function to remove duplicates
+    Solution solution;
+    ListNode* newHead = solution.deleteDuplicates(head);
+
+    // Print the modified linked list without duplicates
+    std::cout << "Modified Linked List: ";
+    current = newHead;
+    while (current != nullptr) {
+        std::cout << current->val << " ";
+        current = current->next;
+    }
+    std::cout << std::endl;
+
+    current = newHead;
+    while (current != nullptr) {
+        ListNode* temp = current;
+        current = current->next;
+        delete temp;
+    }
+
+    return 0;
+}
