@@ -4,21 +4,27 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int i=0;
-        int n = s.size();
-        int ans = INT_MIN;
-        unordered_map<char,int> mp;
-        for(int j=0; j<n; j++){
-            while(mp.find(s[j])!=mp.end()){
-                mp[s[i]]--;
-                if(mp[s[i]]==0)mp.erase(s[i]);
-                i++;
+        string str="";
+        int curr=0;
+        int ans=0;
+        int n=s.size();
+        for(int i=0;i<n;i++){
+            //Check if position is equal or not
+            if(str.find(s[i])==string::npos){
+                curr++;
+                str+=s[i];
+                ans=max(curr,ans);
             }
-            if(mp.find(s[j])==mp.end()){
-                mp[s[j]]++;
-                ans = max(ans,j-i+1);
-            }            
+            else{
+                int j=str.find(s[i])+1;
+                curr-=j;
+                str.erase(0,j);
+                str+=s[i];
+                curr++;
+
+            }
         }
-        return ans==INT_MIN?0:ans;
+        return ans;
+        
     }
 };
