@@ -17,7 +17,7 @@ Start learning by following the links below:
 
 ## C++
 
-You can use [github.dev](github.dev) for coding. Or you can setup your IDE on your local machine. 
+You can use [github.dev](https://github.dev/github/dev) for coding. Or you can setup your IDE on your local machine. 
 You can setup `DevC++` or `CodeBlocks` or `VScode` for running c++ programs.
 
 
@@ -44,5 +44,24 @@ You can setup `DevC++` or `CodeBlocks` or `VScode` for running c++ programs.
 - #### [Sorting Algorithms](https://github.com/ShehrozIrfan/learn-dsa/tree/master/C%2B%2B/11-Sorting%20Algorithms)
 
 - #### [Labs and Tasks](https://github.com/ShehrozIrfan/learn-dsa/tree/master/C%2B%2B/12.%20Labs%20%26%20Tasks)
+
+## Java
+- #### [Sparse Matrix](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Sparse%20Matrix)
+
+- #### [Queue](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Queue)
+
+- #### [Stack](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Stack)
+
+- #### [Singly Linked List](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Singly%20Linked%20List)
+
+- #### [Doubly Linked List](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Doubly%20Linked%20List)
+
+- #### [Recursion](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Recursion)
+
+- #### [Searching](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Searching)
+
+- #### [Binary Search Tree](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Binary%20Search%20Tree)
+
+- #### [Sorting Algorithm](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Sorting%20Algorithm)
 
 ---
