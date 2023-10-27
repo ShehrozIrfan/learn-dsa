@@ -56,6 +56,8 @@ You can setup `DevC++` or `CodeBlocks` or `VScode` for running c++ programs.
 
 - #### [Doubly Linked List](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Doubly%20Linked%20List)
 
+- #### [Circular Linked List](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Circular%20Linked%20List)
+
 - #### [Recursion](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Recursion)
 
 - #### [Searching](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Searching)
@@ -63,5 +65,7 @@ You can setup `DevC++` or `CodeBlocks` or `VScode` for running c++ programs.
 - #### [Binary Search Tree](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Binary%20Search%20Tree)
 
 - #### [Sorting Algorithm](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Sorting%20Algorithm)
+
+- #### [Program and Task](https://github.com/ShehrozIrfan/learn-dsa/tree/master/Java/Program%and%Task)
 
 ---
